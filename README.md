@@ -5,7 +5,7 @@ Multi-platform guide for setting up 1Password with SSH agent support, eliminatin
 ## Supported Platforms
 
 - [Raspberry Pi (ARM64 Linux)](./1PASSWORD_RASPBERRY_PI_SETUP.md)
-- Windows - Coming soon
+- [Windows + WSL](./1PASSWORD_WINDOWS_WSL_SETUP.md)
 - macOS - Coming soon
 
 ## Overview
@@ -25,8 +25,8 @@ Choose your platform and follow the corresponding guide:
 ### Raspberry Pi / ARM64 Linux
 See [1PASSWORD_RASPBERRY_PI_SETUP.md](./1PASSWORD_RASPBERRY_PI_SETUP.md)
 
-### Windows
-Coming soon
+### Windows + WSL
+See [1PASSWORD_WINDOWS_WSL_SETUP.md](./1PASSWORD_WINDOWS_WSL_SETUP.md)
 
 ### macOS
 Coming soon
